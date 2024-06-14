@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bloque5" size="100.000000 128.140701" />
+    <ImageTarget name="bloque4" size="100.000000 130.471375" />
+    <ImageTarget name="bloque3" size="100.000000 130.000000" />
+    <ImageTarget name="bloque2" size="100.000000 130.354126" />
+    <ImageTarget name="bloque1" size="100.000000 129.362411" />
+  </Tracking>
+</QCARConfig>
